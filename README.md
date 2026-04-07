@@ -1,7 +1,7 @@
 # Hi, I'm Andrés López Echeverri 👋
 
 **Data Scientist · ML Engineer · Scientific Computing**  
-📍 Medellín, Colombia · 🌐 Open to remote worldwide
+📍 Envigado, Colombia · 🌐 Open to remote worldwide
 
 ---
 
