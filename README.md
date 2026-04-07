@@ -54,7 +54,7 @@ End-to-end ML pipeline to predict next-day EUR/USD price direction from historic
 
 ---
 
-### 🌊 2D Fluid Simulation — Smoothed Particle Hydrodynamics (SPH)
+### [🌊 2D Fluid Simulation — Smoothed Particle Hydrodynamics (SPH)](https://github.com/AndresL7/WaterDischarge)
 From-scratch implementation of a 2D SPH fluid dynamics simulation in C.  
 - Models pressure, viscosity, and surface tension forces  
 - Grid-based linked-list nearest-neighbor search reducing O(n²) to near-linear cost  
