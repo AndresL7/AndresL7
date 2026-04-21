@@ -9,7 +9,7 @@
 
 I'm an Astronomy graduate (Universidad de Antioquia) with hands-on experience building high-performance data pipelines, training machine learning models, and processing large-scale scientific simulations. My research involved analyzing cosmological N-body simulations with ~1 billion particles using IllustrisTNG, where I optimized Python/C pipelines that reduced processing runtime by ~90%.
 
-I combine a rigorous quantitative background with practical skills in Python, C/C++, SQL, and modern deep learning — and 5+ years of remote professional experience working in English for a U.S.-based platform.
+I combine a rigorous quantitative background with practical skills in Python, C/C++, SQL, and modern deep learning, and 5+ years of remote professional experience working in English for a U.S.-based platform.
 
 ---
 
