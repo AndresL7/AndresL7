@@ -83,7 +83,7 @@ Analyzed cosmological simulations to study the relationship between halo environ
 
 ## 🎓 Education & Certifications
 
-🎓 **BSc Astronomy** — Universidad de Antioquia · GPA 4.44/5.00 *(Top of program)*  
+🎓 **BSc Astronomy** — Universidad de Antioquia · GPA 4.44/5.00 
 📜 Introduction to Data Science in Python — *University of Michigan*  
 📜 Introduction to SQL — *University of Michigan*  
 📜 Agentic AI and AI Agents — *Vanderbilt University*  
