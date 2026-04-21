@@ -97,6 +97,7 @@ Analyzed cosmological simulations to study the relationship between halo environ
 📜 Introduction to SQL — *University of Michigan*  
 📜 Agentic AI and AI Agents — *Vanderbilt University*  
 📜 Harnessing Data for Scientific Discovery - A Deep Dive into Data Analysis and ML for Physical and Life Sciences - *UIDE (Ecuador)*
+
 📜 Summer Astrophysics School — *IRyA, UNAM (Mexico)*
 
 ---
