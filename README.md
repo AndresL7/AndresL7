@@ -54,6 +54,15 @@ End-to-end ML pipeline to predict next-day EUR/USD price direction from historic
 
 ---
 
+### 📉 Customer Churn Prediction
+Machine learning project to predict customer churn and support proactive retention strategies.  
+- Data preprocessing and feature engineering for customer behavior data  
+- Model training and evaluation for churn classification  
+- Performance tracking with precision, recall, F1-score, and ROC-AUC  
+`Python` `Scikit-learn` `Pandas` `Classification`
+
+---
+
 ### [🌊 2D Fluid Simulation — Smoothed Particle Hydrodynamics (SPH)](https://github.com/AndresL7/WaterDischarge)
 From-scratch implementation of a 2D SPH fluid dynamics simulation in C.  
 - Models pressure, viscosity, and surface tension forces  
