@@ -54,7 +54,7 @@ End-to-end ML pipeline to predict next-day EUR/USD price direction from historic
 
 ---
 
-### 📉 Customer Churn Prediction
+### [📉 Customer Churn Prediction](https://github.com/AndresL7/ForexPredictML)
 Machine learning project to predict customer churn and support proactive retention strategies.  
 - Data preprocessing and feature engineering for customer behavior data  
 - Model training and evaluation for churn classification  
